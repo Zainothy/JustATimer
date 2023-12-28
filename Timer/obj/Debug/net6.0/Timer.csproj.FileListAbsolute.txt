@@ -1,0 +1,15 @@
+C:\Users\mayas\RiderProjects\Timer\Timer\bin\Debug\net6.0\Timer.exe
+C:\Users\mayas\RiderProjects\Timer\Timer\bin\Debug\net6.0\Timer.deps.json
+C:\Users\mayas\RiderProjects\Timer\Timer\bin\Debug\net6.0\Timer.runtimeconfig.json
+C:\Users\mayas\RiderProjects\Timer\Timer\bin\Debug\net6.0\Timer.dll
+C:\Users\mayas\RiderProjects\Timer\Timer\bin\Debug\net6.0\Timer.pdb
+C:\Users\mayas\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.csproj.AssemblyReference.cache
+C:\Users\mayas\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayas\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.AssemblyInfoInputs.cache
+C:\Users\mayas\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.AssemblyInfo.cs
+C:\Users\mayas\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.csproj.CoreCompileInputs.cache
+C:\Users\mayas\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.dll
+C:\Users\mayas\RiderProjects\Timer\Timer\obj\Debug\net6.0\refint\Timer.dll
+C:\Users\mayas\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.pdb
+C:\Users\mayas\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.genruntimeconfig.cache
+C:\Users\mayas\RiderProjects\Timer\Timer\obj\Debug\net6.0\ref\Timer.dll
